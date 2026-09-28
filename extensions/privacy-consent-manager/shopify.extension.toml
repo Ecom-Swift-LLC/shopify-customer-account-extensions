@@ -1,0 +1,14 @@
+api_version = "2026-01"
+
+[[extensions]]
+type = "ui_extension"
+name = "Privacy consent manager"
+handle = "privacy-consent-manager"
+uid = "privacy-consent-manager-uid"
+
+[[extensions.targeting]]
+target = "customer-account.profile.block.render"
+module = "./src/Extension.jsx"
+
+[extensions.capabilities.collect_buyer_consent]
+customer_privacy = true

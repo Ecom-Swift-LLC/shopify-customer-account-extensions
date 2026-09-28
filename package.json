@@ -1,0 +1,24 @@
+{
+  "name": "shopify-customer-account-extensions",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Three free Shopify Customer Account UI Extensions (reorder, delivery instructions, privacy consent) with tested logic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ecom-Swift-LLC/shopify-customer-account-extensions.git"
+  },
+  "keywords": [
+    "shopify",
+    "shopify-app",
+    "customer-account-extensions",
+    "shopify-extensions"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}

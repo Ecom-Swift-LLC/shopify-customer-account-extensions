@@ -1,0 +1,8 @@
+{
+  "reorder": {
+    "heading": "Buy it again",
+    "button": "Add all items to a new cart",
+    "buttonLoading": "Building your cart…",
+    "continueToCheckout": "Continue to checkout"
+  }
+}

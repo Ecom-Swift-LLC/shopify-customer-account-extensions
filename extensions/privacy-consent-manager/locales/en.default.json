@@ -1,0 +1,9 @@
+{
+  "consent": {
+    "heading": "Privacy preferences",
+    "save": "Save preferences",
+    "saving": "Saving…",
+    "saved": "Preferences saved.",
+    "error": "Couldn't save your preferences. Please try again."
+  }
+}

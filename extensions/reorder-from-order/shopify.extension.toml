@@ -1,0 +1,14 @@
+api_version = "2026-01"
+
+[[extensions]]
+type = "ui_extension"
+name = "Reorder from order"
+handle = "reorder-from-order"
+uid = "reorder-from-order-uid"
+
+[[extensions.targeting]]
+target = "customer-account.order-status.block.render"
+module = "./src/Extension.jsx"
+
+[extensions.capabilities]
+api_access = true

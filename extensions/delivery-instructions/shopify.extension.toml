@@ -1,0 +1,11 @@
+api_version = "2026-01"
+
+[[extensions]]
+type = "ui_extension"
+name = "Delivery instructions"
+handle = "delivery-instructions"
+uid = "delivery-instructions-uid"
+
+[[extensions.targeting]]
+target = "customer-account.order-status.block.render"
+module = "./src/Extension.jsx"

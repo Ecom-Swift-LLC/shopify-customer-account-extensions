@@ -1,0 +1,10 @@
+{
+  "deliveryInstructions": {
+    "heading": "Delivery instructions",
+    "label": "Delivery instructions",
+    "save": "Save instructions",
+    "saving": "Saving…",
+    "saved": "Delivery instructions saved.",
+    "error": "Couldn't save"
+  }
+}
